@@ -1,0 +1,11 @@
+com\ip\TimeApi\WorkPeriod.class
+com\ip\TimeApi\Calendar.class
+com\ip\TimeApi\Schedule.class
+com\ip\TimeApi\Utils.class
+com\ip\TimeApi\Event.class
+com\ip\TimeApi\TestDate.class
+com\ip\TimeApi\TaskPart.class
+com\ip\TimeApi\Date.class
+com\ip\TimeApi\Time.class
+com\ip\TimeApi\Task.class
+com\ip\TimeApi\TestTime.class
